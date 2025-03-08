@@ -113,7 +113,7 @@ This project is licensed under the MIT License.
 
 <div align="center">
 
-**Made with ❤️ by  me any team as a part of our project in Technoverse - a  hackathon organised by Cognizant Technology Solutions**
+**Made with ❤️ by  me and my team as a part of our project in Technoverse - a  hackathon organised by Cognizant Technology Solutions**
 
 [↑ Back to Top]()
 
